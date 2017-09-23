@@ -1,4 +1,4 @@
-# tennessee-representatives
+# find-my-reps
 Geocode addresses and look up state representatives using OpenStates API
 
 ## Installation
